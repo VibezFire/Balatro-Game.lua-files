@@ -16,3 +16,9 @@ Once in this file, there are plenty of things to mess with. here are some steps 
 4. When editing this file, it may say that you "don't have permission to modify" and then it should give you an option to duplicate the game.lua file. Do this, and save the updated game.lua somewhere you can find. DON'T LOSE THE ORIGINAL game.lua FILE!!
 5. replace the game.lua file with your modified game.lua file. boot up the game.
 6. now you should see the game will start, and when you go to the yellow deck, it will have whatever number you set the money to!
+
+# GAME.LUA FILES:
+1. Edits the Yellow deck to give you $50 instead of the regular 10
+2. Edits the Ghost deck to instead give you the Ouija and Sigil cards, allowing you to have a ton of the same suit-numbered cards
+
+ # MORE TO COME!
